@@ -1,0 +1,5 @@
+{
+  "command.world_delete.confirmation": "Are you sure you want to delete the world?",
+  "command.world_delete.confirm": "[Confirm]",
+  "command.world_delete.cancel": "[Cancel]"
+}
